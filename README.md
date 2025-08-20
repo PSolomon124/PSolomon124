@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OVUOBA ODINAKACHUKWU
-- 👀 I’m interested in MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE
-- 🌱 I’m currently learning MACHINE LEARNING
+- 👀 I’m a MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE expert
+- Am also good at embedded systems, and IoT
 - 💞️ I’m looking to collaborate with you
 - 📫 You can reach out to me through my whatsapp number 07048859272
 - 😄 
